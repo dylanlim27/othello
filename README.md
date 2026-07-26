@@ -1,7 +1,6 @@
 # Reversi (Othello) - Java Swing MVC Implementation
 
 [![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)](https://www.oracle.com/java/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Architecture](https://img.shields.io/badge/Architecture-MVC-orange.svg)](#architecture)
 
 A modern, object-oriented Java implementation of the classic **Reversi (Othello)** strategy board game built using the **Model-View-Controller (MVC)** design pattern and **Java Swing**.
@@ -113,9 +112,3 @@ Outnumber your opponent by having the majority of your colored discs on the boar
 1. Open or import the project directory into your favorite IDE.
 2. Mark `src` as the Source Root directory.
 3. Run `reversi.ReversiMain` as a Java Application.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more details.
