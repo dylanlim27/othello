@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+bin/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse Metadata
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA Metadata
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF documents
+*.pdf
